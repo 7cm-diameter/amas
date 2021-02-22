@@ -1,4 +1,5 @@
 /*.egg-info
 /poetry.lock
+/.vim
 /.venv
 __pycache__/
